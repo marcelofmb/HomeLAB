@@ -15,23 +15,16 @@ security-related lab services.
 
 ## Services and tools
 
-  -----------------------------------------------------------------------
-  Service / tool                      Purpose
-  ----------------------------------- -----------------------------------
-  OWASP Juice Shop                    Intentionally vulnerable web
-                                      application for security practice
+## Services and tools
 
-  Grafana                             Visualise monitoring data
-
-  Loki                                Log aggregation
-
-  Promtail                            Collect and forward logs
-
-  Suricata                            Network threat detection
-
-  RackPeek                            Homelab rack / equipment
-                                      visualisation
-  -----------------------------------------------------------------------
+| Service / tool | Purpose |
+|---|---|
+| OWASP Juice Shop | Intentionally vulnerable web application for security practice |
+| Grafana | Visualise monitoring data |
+| Loki | Log aggregation |
+| Promtail | Collect and forward logs |
+| Suricata | Network threat detection |
+| RackPeek | Homelab rack and equipment visualisation |
 
 Service availability and deployment may change as the lab develops.
 
