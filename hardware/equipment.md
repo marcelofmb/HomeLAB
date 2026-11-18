@@ -17,6 +17,13 @@ change.
   NETGEAR GS308E                                   1 Managed network
                                                      switching
   ------------------------------------------------------------------------
+## Hardware Specifications
+
+| Device | Model | CPU | RAM | Storage |
+|---|---|---|---|---|
+| Main Server | GMKtec G3 | Intel N100 | 8 GB | 254 GB |
+| Server 1 | Lenovo ThinkCentre M700 | Intel Core i5-6500T | 8 GB | 128 GB |
+| Server 2 | Lenovo ThinkCentre M700 | Intel Core i5-6500T | 8 GB | 128 GB |
 
 ## GMKtec N100
 
@@ -50,7 +57,3 @@ A previous idle measurement for the three computers and the switch
 together was approximately **23 W**. Consumption varies with workload.
 
 ## Future updates
-
-I will add exact CPU, RAM, storage and power details when I have
-verified them.
-
