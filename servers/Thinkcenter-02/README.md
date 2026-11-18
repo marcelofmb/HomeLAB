@@ -15,6 +15,8 @@ the main services machine.
 
 -   Hypervisor: Proxmox VE
 -   Virtual machine: Kali Linux
+-   Virtual machine: Windows Server Core
+-   Virtual machine: Windows Server GUI
 
 ## Purpose
 
