@@ -33,16 +33,3 @@ flowchart TD
   Suricata         Network threat detection           Lab use
   VLANs            Separate devices and experiments   Learning / planned
 
-## Configuration details to add
-
--   Router / gateway:
--   LAN subnet:
--   DHCP range:
--   DNS server:
--   Switch management address:
--   VLAN IDs and purpose:
--   Important firewall rules:
-
-Do not publish public IP addresses, passwords, VPN keys, private
-certificates or other sensitive information. Redact these values before
-committing configuration examples.
