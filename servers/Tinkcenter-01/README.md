@@ -15,7 +15,6 @@ security-related lab services.
 
 ## Services and tools
 
-## Services and tools
 
 | Service / tool | Purpose |
 |---|---|
