@@ -23,7 +23,7 @@ change.
 -   Processor: Intel N100
 -   Intended role: Run lightweight services that should remain
     available.
--   Intended services: Minecraft server, Pi-hole and Tailscale.
+-   Intended services: Minecraft server, Pi-hole and Twingate.
 
 ## Lenovo ThinkCentre M700 #1
 
