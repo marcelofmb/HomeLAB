@@ -9,7 +9,7 @@ the main services machine.
 ## Hardware
 
 -   Device: Lenovo ThinkCentre M700
--   CPU / RAM / storage: 8GB / 254GB
+-   CPU / RAM / storage: i5 6500T / 8GB / 254GB
 
 ## Software
 
