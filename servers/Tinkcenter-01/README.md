@@ -10,7 +10,7 @@ security-related lab services.
 
 -   Device: Lenovo ThinkCentre M700
 -   Operating system: Ubuntu Server
--   CPU / RAM / storage: To be documented
+-   CPU / RAM / storage: 8GB / 254GB
 -   Container platform: Docker
 
 ## Services and tools
