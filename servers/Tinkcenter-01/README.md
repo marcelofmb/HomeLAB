@@ -25,6 +25,10 @@ security-related lab services.
 | Suricata | Network threat detection |
 | RackPeek | Homelab rack and equipment visualisation |
 
+---
+<img width="2558" height="1373" alt="image" src="https://github.com/user-attachments/assets/d5d4a939-670e-4f00-ac90-9e5e25d0db03" />
+
+---
 Service availability and deployment may change as the lab develops.
 
 ## Purpose
