@@ -16,6 +16,9 @@ CasaOS is an open-source home server management platform designed to make self-h
 
 CasaOS runs on top of an existing Linux distribution rather than being a standalone operating system. It integrates with Docker, allowing applications to be installed and managed through its interface.
 
+<img width="2558" height="1365" alt="Screenshot 2026-08-25 183308" src="https://github.com/user-attachments/assets/80a44912-c995-4337-9a9f-784f175f8561" />
+
+
 ### Main Features
 
 - **Web Dashboard:** Centralised interface for managing the server.
