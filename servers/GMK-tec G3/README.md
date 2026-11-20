@@ -43,7 +43,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2158bb55-6f8e-4c2d-9e90-c42de4ee3cfa" width="100%" alt="GMKtec N100 server dashboard">
   <br>
-  <strong>GMKtec N100 – Server management interface</strong>
+  <strong>GMKtec N100 – Crafty -> Minecraft Server</strong>
 </p>
 
 
@@ -51,7 +51,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e64fc13-a20f-4c8b-a640-f45b07239cd1" width="100%" alt="GMKtec N100 service overview">
   <br>
-  <strong>Homelab – Service configuration and overview</strong>
+  <strong>Homelab – Immich/strong>
 </p>
 
 
@@ -59,7 +59,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
 <p align="center">
   <img src="https://github.com/user-attachments/assets/653cb9a3-35a5-45a6-8ea6-1c67df92c877" width="100%" alt="GMKtec N100 server configuration">
   <br>
-  <strong>GMKtec N100 – Server configuration</strong>
+  <strong>GMKtec N100 – Twingate</strong>
 </p>
 
 
