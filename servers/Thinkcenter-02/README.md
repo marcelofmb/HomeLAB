@@ -18,6 +18,9 @@ the main services machine.
 -   Virtual machine: Windows Server Core
 -   Virtual machine: Windows Server GUI
 
+----
+<img width="2558" height="1377" alt="image" src="https://github.com/user-attachments/assets/0ef5eaea-6129-438e-a034-915a027f3ee2" />
+---
 ## Purpose
 
 -   Learn virtualisation and VM management.
