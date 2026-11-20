@@ -38,7 +38,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
 | Twingate         | Secure remote access           | Online |
 | Immich           | photo and video management     | Online |
 
-
+---
 
 <p align="center">
   
@@ -48,7 +48,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
   
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e64fc13-a20f-4c8b-a640-f45b07239cd1" width="100%" alt="GMKtec N100 service overview">
@@ -57,7 +57,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
     
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/653cb9a3-35a5-45a6-8ea6-1c67df92c877" width="100%" alt="GMKtec N100 server configuration">
@@ -66,7 +66,7 @@ CasaOS is used on this machine because its graphical interface makes everyday se
   
 </p>
 
-
+---
 The aim is to keep this machine focused on everyday services. More experimental workloads can run on the ThinkCentre machines so testing does not unnecessarily affect these services.
 
 The N100 acts as the foundation of the homelab, providing essential services while the other machines are used for learning, experimentation and security testing.
